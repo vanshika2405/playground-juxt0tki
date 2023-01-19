@@ -1,6 +1,6 @@
 # Welcome!
 
-This Python template lets you get started quickly with a simple one-page playground.
+This Python template lets you get the characters of a string one by one.
 
 ```python runnable
 print('Hello World!')
